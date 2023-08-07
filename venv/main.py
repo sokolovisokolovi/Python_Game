@@ -21,3 +21,8 @@ while True:
         elif event.type == pygame.KEYDOWN:
             if event.key == pygame.K_1:
                 screen.fill((190, 38, 170))
+
+
+# test git
+
+print('Hi')
